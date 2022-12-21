@@ -3,7 +3,17 @@
 
 Тут представлен код для обработки, отчистки, преобразования данных, вывода графиков.
 
-Презентация - <i>coming soon...</i>
+Порядок запуска файлов:
+1. clearing.ipynb
+2. preprocessing.ipynb
+3. EDA.ipynb
+4. graphs.ipynb
+
+Графики, использованные в презентации - https://drive.google.com/drive/folders/1RYhGjZ-ugOOCzMeATeUzOXhtWl37nxJH?usp=share_link
+
+Предобработанная база данных, чтобы запустить сразу файлы EDA.ipynb и graphs.ipynb - https://drive.google.com/file/d/1z3TuyFRlKopDHUhf_-x_4Cvwyp3pDjcq/view?usp=sharing
+
+Презентация - https://drive.google.com/file/d/1rOGF4D5jgpTIAyylAD28EyxHolfmb4q6/view?usp=sharing
 
 Запись презентации - <i>coming soon...</i>
 
