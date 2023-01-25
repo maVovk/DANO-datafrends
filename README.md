@@ -13,9 +13,9 @@
 
 Предобработанная база данных, чтобы запустить сразу файлы EDA.ipynb и graphs.ipynb - https://drive.google.com/file/d/1z3TuyFRlKopDHUhf_-x_4Cvwyp3pDjcq/view?usp=sharing
 
-Презентация - https://drive.google.com/file/d/1rOGF4D5jgpTIAyylAD28EyxHolfmb4q6/view?usp=sharing
+Презентация - [ссылочка](https://drive.google.com/file/d/1rOGF4D5jgpTIAyylAD28EyxHolfmb4q6/view?usp=sharing)
 
-Запись презентации - <i>coming soon...</i>
+Запись презентации - [ещё ссылочка](https://drive.google.com/file/d/1ojjS6mLESaQh-bodxUVCm_1-FOVOiqRL/view)
 
 Над проектом работали:<br>
 <b>Вовк Михаил</b> - @SimpingGosling<br>
